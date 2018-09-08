@@ -1,0 +1,10 @@
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrapreter.csprojResolveAssemblyReference.cache
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrator.Form1.resources
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\Migrator\Migrator\obj\Debug\Migrapreter.csproj.GenerateResource.Cache
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\Migrator\Migrator\bin\Debug\MigraPreter.exe
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\Migrator\Migrator\bin\Debug\MigraPreter.pdb
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\Migrator\Migrator\obj\Debug\MigraPreter.Properties.Resources.resources
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\Migrator\Migrator\obj\Debug\MigraPreter.exe
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\Migrator\Migrator\obj\Debug\MigraPreter.pdb
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\MigraPreter\Migrator\obj\Debug\MigraPreter.exe
+C:\Users\piyadist\Documents\Visual Studio 2013\Projects\MigraPreter\Migrator\obj\Debug\MigraPreter.pdb
