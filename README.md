@@ -2,7 +2,7 @@
 
 I made updates on the MigraPreter tool and published it as "version 1.1". With MigraPreter, you can create an EXE file to migrate the process by entering the ID value of a desired process. Migration to an arbitrary process could prevent dangerous migration of LSASS.EXE, CSRSS.EXE, and WINLOGON.EXE.
 
-Project Blog http://piyadistramin.com/tr/blog
+Project Blog https://medium.com/@ramin_karimhani/migrapreter-i%CC%87le-do%C4%9Frudan-process-migration-9e86e3b373d3
 
 ![](migraPreterv1.1.png)
 
